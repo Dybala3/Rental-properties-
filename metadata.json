@@ -1,0 +1,6 @@
+{
+  "name": "Rental Properties Portal",
+  "description": "A mobile application for landlords to list properties and manage inquiries, and for tenants to search for rooms, chat with landlords, and acquire rentals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
